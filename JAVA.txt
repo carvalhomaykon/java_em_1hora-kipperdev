@@ -1,0 +1,4 @@
+JAVA
+
+Compilar:
+	Terminal >>> cd src >>> javac nome.java

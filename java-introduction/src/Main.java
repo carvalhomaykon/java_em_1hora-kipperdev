@@ -4,6 +4,7 @@ import  java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
+        /*
         // Declaração de Variáveis
         // 1° Maneira:
         // tipo nome = valor;
@@ -26,6 +27,7 @@ public class Main {
 
         int idade_1 = 22;
 
+
         // boolean --> Verdadeiro ou falso
         boolean eBrasileiro = true;
 
@@ -40,6 +42,7 @@ public class Main {
         // double --> Usado para armazenar números de pontos fluantes complexos, guardando bastante vários números depois da vírgula
          double idade_2 = 22.50;
          float salario_2 = 400.20F; // Obrigatório colocar F no final
+         */
 
         // Sintaxe de condicionais
         /*
@@ -96,6 +99,7 @@ public class Main {
          */
 
         // CASTING
+        /*
         // É transforma uma variável de um tipo pra outro tipo
         // Ex: Quero transformar um int pra float
 
@@ -113,6 +117,10 @@ public class Main {
         String nome = String.valueOf(letra); // Converter um char em string
         letra = nome.charAt(0); // Converter String em char
         String number2 = String.valueOf(number); // Converter int em
+        number = Integer.parseInt(number2); // String em inteiro
+        // Classs Integer | Método Auxiliar
+         */
 
+        // POO - PROGRAMAÇÃO ORIENTADA A OBJETO
     }
 }
