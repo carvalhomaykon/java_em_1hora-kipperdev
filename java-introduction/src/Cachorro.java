@@ -1,5 +1,4 @@
-public class Cachorro extends Ser{
-
+public class Cachorro extends Ser {
     String nomeDono;
 
     // Criar um construtor cachorro
@@ -9,7 +8,7 @@ public class Cachorro extends Ser{
     }
 
     @Override
-    public String saudacao(){
+    public String saudacao() {
         return "au au";
     }
 }

@@ -1,0 +1,7 @@
+Compilar arquivo no Java:
+
+1. Navegar até o diretório do projeto:
+2. Compilar os arquivos Java:
+	javac src/*.java
+3. Executar a classe principal:
+	java -cp src Main2
